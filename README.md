@@ -1,4 +1,6 @@
-![Banner](https://s6.ezgif.com/tmp/ezgif-6a06840a8cfc876d.gif)
+<video src="https://files.catbox.moe/j2w464.mp4" controls autoplay muted loop width="100%">
+  Browser lu ga mendukung tag video ini.
+</video>
 
 <h1 align="center">Hai! Gwehj <b>ᴅɪxᴢᴢ</b> 👋</h1>
 
