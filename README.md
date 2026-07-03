@@ -1,4 +1,4 @@
-![Banner](https://s3.ezgif.com/tmp/ezgif-31b983968bab8b42.gif)
+![Banner](https://s6.ezgif.com/tmp/ezgif-6a06840a8cfc876d.gif)
 
 <h1 align="center">Hai! Gwehj <b>ᴅɪxᴢᴢ</b> 👋</h1>
 
