@@ -1,22 +1,19 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&random=false&width=435&lines=ᴅɪxᴢᴢ;𝐝𝐢𝐱𝐳𝐳;𝗱𝗶𝘅𝘇𝘇;𝖉𝖎𝖝𝖟𝖟" alt="Typing SVG" />
-</div>
+![Banner](https://s3.ezgif.com/tmp/ezgif-31b983968bab8b42.gif)
 
-<h1 align="center">Hi! I'm <b>ᴅɪxᴢᴢ</b> 👋</h1>
+<h1 align="center">Hai! Gwehj <b>ᴅɪxᴢᴢ</b> 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DixzzXD88&label=Views&color=00FFAA&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=DixzzXD88&label=Pengunjung&color=00FFAA&style=flat" />
   <img src="https://img.shields.io/github/followers/DixzzXD88?label=Follow&style=social" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Tentang Gweh
 
-- 🔭 I'm currently working on **Node.js projects**
-- 🌱 Learning **JavaScript & TypeScript**
-- 💬 Ask me about **Node.js, Express, MongoDB**
-- ⚡ Fun fact: I love coding at 3 AM
+- 🔭 Lagi ngerjain **project Node.js**
+- 🌱 Belajar **JavaScript & TypeScript**
+- 💬 Kalo ga ngerti gw nanyain aja ke AI
 
 ---
 
@@ -34,16 +31,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Statistik GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DixzzXD88&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DixzzXD88&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DixzzXD88&theme=tokyonight" width="100%" />
+</p>
 
 ---
 
-## 🐍 Snake Eating My Contributions
+## 🐍 Kontribusi gw di makan uler
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DixzzXD88/DixzzXD88/output/github-snake-dark.svg" />
@@ -54,5 +50,5 @@
 ---
 
 <div align="center">
-  <i>Made with ❤️ by ᴅɪxᴢᴢ</i>
+  <i>Dibuat oleh ᴅɪxᴢᴢ</i>
 </div>
